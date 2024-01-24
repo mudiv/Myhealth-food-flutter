@@ -19,7 +19,7 @@
 
 | 1 | 2                       |
 |------|-------------------------------------------|
-|<img src="images/Screenshot_٢٠٢٣١٢١٥-٢١١٦٢٣.jpg" width="400">| <img src="images/Screenshot_٢٠٢٣١٢٢١-٢٣٢٤١٣.jpg" width="400"> |
+|<img src="images/Screenshot_٢٠٢٣١٢١٥-٢١١٦٢٠.jpg" width="400">| <img src="images/Screenshot_٢٠٢٣١٢٢١-٢٣٢٤١٣.jpg" width="400"> |
 
 
 | 3                                      | 4                         |
