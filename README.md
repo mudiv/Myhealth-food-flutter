@@ -19,12 +19,12 @@
 
 | 1 | 2                       |
 |------|-------------------------------------------|
-|<img src="images/Screenshot_٢٠٢٣١٢١٥-٢١١٦٢٠.jpg" width="400">| <img src="images/Screenshot_٢٠٢٣١٢٢١-٢٣٢٤١٣.jpg" width="400"> |
+|<img src="imags/Screenshot_٢٠٢٣١٢١٥-٢١١٦٢٠.jpg" width="400">| <img src="imags/Screenshot_٢٠٢٣١٢٢١-٢٣٢٤١٣.jpg" width="400"> |
 
 
 | 3                                      | 4                         |
 |---------------------------------------------|----------------------------------------------|
-| <img src="image/iPhone 14 & 15 Pro - 1.png" width="400"> | <img src="image/iPhone 14 & 15 Pro - 3.png" width="400"> |
+| <img src="imags/iPhone 14 & 15 Pro - 1.png" width="400"> | <img src="imags/iPhone 14 & 15 Pro - 3.png" width="400"> |
 
 
 
